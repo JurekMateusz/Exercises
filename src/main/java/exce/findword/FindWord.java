@@ -36,11 +36,8 @@ public class FindWord {
         for (int i = 0; i < listFile.size(); i++) {
             String txt = listFile.get(i);
             int numbers = 0;
-            while (true) {
-                int index = txt.indexOf(searchString);
-                if (index == -1) {
-                    break;
-                }
+            int index =0;
+            while (((index = txt.indexOf(searchString)) != -1)) {
                 txt = txt.substring(index + searchString.length());
                 numbers++;
             }
