@@ -1,1 +1,1 @@
-# Excercises
+# Simple projects ,some exercises 

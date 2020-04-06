@@ -20,7 +20,6 @@ public class SkarbFinder {
         myReader = new Scanner(System.in);
     }
 
-
     public void fun() {
         int numbersOfSeries = myReader.nextInt();
 
