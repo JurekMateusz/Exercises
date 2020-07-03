@@ -1,12 +1,13 @@
-# Simple projects:
+
 * Sudoku Solver
 ~~~
-SPOJ
+SPOJ:
 ~~~
-* Skarbfinder
-* Space
-* Eight queens puzzle
-* stack 
+- Skarbfinder
+- Space
+- Eight queens puzzle
+- stack 
 ~~~
-Some exercise
+JetBrains Academy
 ~~~
+- Multi-dimensional array ~ Check sudoku
