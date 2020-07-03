@@ -47,7 +47,7 @@ class SudokuSolverTest {
     @Test
     void solveT() throws FileNotFoundException {
         SudokuSolver sudokuSolver = new SudokuSolver();
-        Map<List<Integer>, List<Integer>> sudoku = getMapOfKeysAndSolutions(10);
+        Map<List<Integer>, List<Integer>> sudoku = getMapOfKeysAndSolutions(1000);
 
         Iterator<Map.Entry<List<Integer>, List<Integer>>> iterator = sudoku.entrySet().iterator();
 
