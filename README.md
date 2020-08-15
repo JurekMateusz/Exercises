@@ -1,5 +1,5 @@
-
 * Sudoku Solver
+* Sudoku checker
 ~~~
 SPOJ:
 ~~~
@@ -7,7 +7,3 @@ SPOJ:
 - Space
 - Eight queens puzzle
 - stack 
-~~~
-JetBrains Academy
-~~~
-- Multi-dimensional array ~ Check sudoku

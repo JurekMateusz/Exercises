@@ -8,6 +8,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * Class to find last 10 occurrence word in text file.
+ */
 public class FindWord {
     private final int MAX_SEARCH_STRINGS;
     private final String searchString;

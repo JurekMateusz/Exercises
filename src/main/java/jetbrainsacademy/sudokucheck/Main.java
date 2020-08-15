@@ -3,7 +3,7 @@ package jetbrainsacademy.sudokucheck;
 import java.util.*;
 
 /**
- * Dayly
+ * Daily
  * Multi-dimensional array -> Check sudoku
  */
 public class Main {
